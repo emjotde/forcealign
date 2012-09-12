@@ -1,0 +1,12 @@
+Reading a/d table from ../data/giza.fr-en/fr-en.a3.final
+Reading a/d table from ../data/giza.fr-en/fr-en.d3.final
+Read classes: #words: 42069  #classes: 51
+Actual number of read words: 42068 stored words: 42068
+Read classes: #words: 45560  #classes: 51
+Actual number of read words: 45559 stored words: 45559
+Reading a/d table from ../data/giza.en-fr/en-fr.a3.final
+Reading a/d table from ../data/giza.en-fr/en-fr.d3.final
+Read classes: #words: 45560  #classes: 51
+Actual number of read words: 45559 stored words: 45559
+Read classes: #words: 42069  #classes: 51
+Actual number of read words: 42068 stored words: 42068
