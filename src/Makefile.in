@@ -253,8 +253,7 @@ INCLUDES = \
 	-DPACKAGE_DATA_DIR=\""$(datadir)"\" 
 
 AM_CFLAGS = \
-	 -Wall -Wno-deprecated \
-	 -g
+	 -Wall -Wno-deprecated
 
 forcealign_SOURCES = \
 	forcealign.cpp
@@ -267,7 +266,7 @@ forcealign_CXXFLAGS = \
 	-MD \
 	-MP \
 	-MF \
-	-O6 -fPIC
+	-fPIC
 
 forcealign_CPPFLAGS = \
 	-DNDEBUG \
@@ -373,7 +372,7 @@ libgiza_a_CXXFLAGS = \
 	-MP \
 	-MF \
 	-MT \
-	-O6 -fPIC
+	-fPIC
 
 libgiza_a_CPPFLAGS = \
 	-DNDEBUG \

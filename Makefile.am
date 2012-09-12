@@ -1,3 +1,3 @@
-SUBDIRS = src java perl
+SUBDIRS = src perl
 
 
